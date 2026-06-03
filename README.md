@@ -31,8 +31,8 @@
 ```python
 class Deekshit:
     name       = "Korupolu Deekshit"
-    degree     = "B.Tech – AI & Machine Learning"
-    year       = "4th Year (2025)"
+    degree     = "B.Tech – CSE AI & Machine Learning"
+    year       = "4th Year (2027)"
     university = "India 🇮🇳"
     focus      = ["Machine Learning", "Deep Learning",
                   "NLP", "Data Science", "LLMs"]
